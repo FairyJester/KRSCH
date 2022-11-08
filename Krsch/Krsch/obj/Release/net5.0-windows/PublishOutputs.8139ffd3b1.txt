@@ -1,0 +1,5 @@
+C:\Users\1\OneDrive\Рабочий стол\Kursach\Krsch.exe
+C:\Users\1\OneDrive\Рабочий стол\Kursach\Krsch.dll
+C:\Users\1\OneDrive\Рабочий стол\Kursach\Krsch.deps.json
+C:\Users\1\OneDrive\Рабочий стол\Kursach\Krsch.runtimeconfig.json
+C:\Users\1\OneDrive\Рабочий стол\Kursach\Krsch.pdb
